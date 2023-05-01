@@ -1,8 +1,4 @@
 # Moonshot
-<div style="width:100%;height:0;padding-bottom:163%;position:relative;"><iframe src="https://giphy.com/embed/hOesOsPEpsh8MBYa02" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hOesOsPEpsh8MBYa02">via GIPHY</a></p>
-
-
-
 
 ![Project gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRmZDAzODU1ZGVjYjUwNWM4YjQ5MjVkYTA4ODE0ZTVlODc5MDZjZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hOesOsPEpsh8MBYa02/giphy.gif)
 
