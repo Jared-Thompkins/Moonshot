@@ -1,6 +1,6 @@
 # Moonshot
 
-MoonShot is an IOS application written in Swift that provides a brief history of Apollo missions. MoonShot uses custom SwiftUI layouts to create an a visually appealing and interactive user experience.
+MoonShot is an IOS application written in Swift that provides a brief history of the Apollo missions. MoonShot uses custom SwiftUI layouts to create an a visually appealing and interactive user experience.
 
 
 ![Project gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRmZDAzODU1ZGVjYjUwNWM4YjQ5MjVkYTA4ODE0ZTVlODc5MDZjZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hOesOsPEpsh8MBYa02/giphy.gif)
